@@ -65,3 +65,8 @@
   font-weight: bold;
   margin-top: 40px;
 }
+
+.dropdown {
+  margin-left: 4px;
+  margin-right: 4px;
+}
